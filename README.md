@@ -1,5 +1,5 @@
 # Introduce
-<img width="200" alt="Screen Shot 2021-12-30 at 2 43 45 AM" src="#">
+<img width="200" alt="Screen Shot 2021-12-30 at 2 43 45 AM" src="https://user-images.githubusercontent.com/89081374/147735552-e0545bcc-5577-4e97-bb66-8ecf8c1cbf9a.JPG">
 
 - 이름 : 김재은
 - Email : imj1996@naver.com
